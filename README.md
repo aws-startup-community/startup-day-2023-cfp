@@ -1,6 +1,6 @@
 # Startup Day 2023 Call for Papers
 
-[**Startup Day 2023 の参加登録はこちらから**](https://aws-startup-community.connpass.com/)
+<!-- [**Startup Day 2023 の参加登録はこちらから**](https://aws-startup-community.connpass.com/) -->
 
 ## Startup Day とは
 
